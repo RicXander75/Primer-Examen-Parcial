@@ -1,0 +1,2 @@
+# Primer-Examen-Parcial
+Cree una aplicación de cajero automático para el banco FDP INVERSMENTS. El cajero tendrá un límite de billetes descrito a continuación:   18 billetes de 1,000 19 billetes de 500 23 billetes de 200 50 billetes de 100 El cajero debe solicitar Banco y monto a retirar. Si el banco es FDP INVERSMENTS el limite de retiro es 20,000 y 10,000 pesos por transacción en caso contrario.  El cajero debe informar si el monto solicitado no puede ser dispensado o si excede el límite de transacción. Y debe hacer la distribución de los billetes de acuerdo al monto. 
